@@ -16,13 +16,9 @@ public:
 		{
 			return 1;
 		}
-		if(n == 1)
-		{
-			return x;
-		}
 		double ans = 1;
 		double tmp = x;
-		long long i = 1;
+		int i = 1;
 		while(i <= n)
 		{
 			if(i & n)
@@ -30,6 +26,10 @@ public:
 				ans *= tmp;
 			}
 			tmp *= tmp;
+			if(i > (n >> 1))
+			{
+				break;
+			}
 			i <<= 1;
 		}
 		return ans;
@@ -38,6 +38,6 @@ public:
 
 int main()
 {
-	cout << Solution().myPow(0.00001, 2147483647);
+	cout << Solution().myPow(1.00000, -2147483648);
 	return 0;
 }
