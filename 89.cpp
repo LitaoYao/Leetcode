@@ -15,10 +15,6 @@ public:
 			ans.resize(size * 2);
 			for(int j = 0; j < size; ++j)
 			{
-				ans[size + j] = ans[j];
-			}
-			for(int j = 0; j < size; ++j)
-			{
 				ans[2 * size - j - 1] = (ans[j] | x);
 			}
 			x <<= 1;
