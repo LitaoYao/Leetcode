@@ -34,6 +34,6 @@ int main()
 	triangle.push_back({3, 4});
 	triangle.push_back({6, 5, 7});
 	triangle.push_back({4, 1, 8, 3});
-	cout << Solution().minimumTotal(triangle) << endl;
+	cout << Solution().minimumTotal(triangle);
 	return 0;
 }
