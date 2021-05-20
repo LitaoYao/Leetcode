@@ -2,6 +2,7 @@
 #include <iostream>
 #include <vector>
 using namespace std;
+
 class Solution {
 public:
 	int minimumTotal(vector<vector<int>>& triangle) {
@@ -25,6 +26,7 @@ public:
 		return ans;
 	}
 };
+
 int main()
 {
 	vector<vector<int>> triangle;
@@ -32,6 +34,6 @@ int main()
 	triangle.push_back({3, 4});
 	triangle.push_back({6, 5, 7});
 	triangle.push_back({4, 1, 8, 3});
-	cout << Solution().minimumTotal(triangle);
+	cout << Solution().minimumTotal(triangle) << endl;
 	return 0;
 }
