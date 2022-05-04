@@ -4,6 +4,18 @@ using namespace std;
 
 class Solution {
 public:
+	// Solution 1:
+	int findTheWinner(int n, int k) {
+		int last = 1;
+		for (int i = 2; i <= n; ++i)
+		{
+			last = (last + k - 1) % i + 1;
+		}
+		return last;
+	}
+
+	// Solution 2:
+	/*
 	int findTheWinner(int n, int k) {
 		if (n == 1)
 		{
@@ -12,6 +24,7 @@ public:
 		int last = findTheWinner(n - 1, k);
 		return (k + last - 1) % n + 1;
 	}
+	*/
 };
 
 int main()
