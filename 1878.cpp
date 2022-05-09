@@ -1,4 +1,4 @@
-// https://leetcode-cn.com/problems/get-biggest-three-rhombus-sums-in-a-grid/
+// https://leetcode.cn/problems/get-biggest-three-rhombus-sums-in-a-grid/
 #include <iostream>
 #include <vector>
 using namespace std;

@@ -1,4 +1,4 @@
-// https://leetcode-cn.com/problems/zigzag-conversion/
+// https://leetcode.cn/problems/zigzag-conversion/
 #include <iostream>
 #include <string>
 using namespace std;

@@ -1,4 +1,4 @@
-// https://leetcode-cn.com/problems/minimum-deletions-to-make-array-beautiful/
+// https://leetcode.cn/problems/minimum-deletions-to-make-array-beautiful/
 #include <iostream>
 #include <vector>
 using namespace std;

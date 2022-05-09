@@ -1,4 +1,4 @@
-// https://leetcode-cn.com/problems/restore-ip-addresses/
+// https://leetcode.cn/problems/restore-ip-addresses/
 #include <iostream>
 #include <string>
 #include <vector>

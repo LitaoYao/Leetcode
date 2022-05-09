@@ -1,4 +1,4 @@
-// https://leetcode-cn.com/problems/validate-binary-search-tree/
+// https://leetcode.cn/problems/validate-binary-search-tree/
 #include <iostream>
 using namespace std;
 

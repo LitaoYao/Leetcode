@@ -1,4 +1,4 @@
-// https://leetcode-cn.com/problems/sort-colors/
+// https://leetcode.cn/problems/sort-colors/
 #include <iostream>
 #include <vector>
 using namespace std;

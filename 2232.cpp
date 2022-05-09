@@ -1,4 +1,4 @@
-// https://leetcode-cn.com/problems/minimize-result-by-adding-parentheses-to-expression/
+// https://leetcode.cn/problems/minimize-result-by-adding-parentheses-to-expression/
 #include <iostream>
 using namespace std;
 

@@ -1,4 +1,4 @@
-// https://leetcode-cn.com/problems/count-and-say/
+// https://leetcode.cn/problems/count-and-say/
 #include <iostream>
 #include <string>
 using namespace std;

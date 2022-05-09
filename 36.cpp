@@ -1,4 +1,4 @@
-// https://leetcode-cn.com/problems/valid-sudoku/
+// https://leetcode.cn/problems/valid-sudoku/
 #include <iostream>
 #include <vector>
 using namespace std;

@@ -1,4 +1,4 @@
-// https://leetcode-cn.com/problems/calculate-digit-sum-of-a-string/
+// https://leetcode.cn/problems/calculate-digit-sum-of-a-string/
 #include <iostream>
 #include <string>
 using namespace std;

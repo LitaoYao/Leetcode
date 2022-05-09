@@ -1,4 +1,4 @@
-// https://leetcode-cn.com/problems/maximum-total-beauty-of-the-gardens/
+// https://leetcode.cn/problems/maximum-total-beauty-of-the-gardens/
 #include <iostream>
 #include <vector>
 using namespace std;

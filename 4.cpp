@@ -1,4 +1,4 @@
-// https://leetcode-cn.com/problems/median-of-two-sorted-arrays/
+// https://leetcode.cn/problems/median-of-two-sorted-arrays/
 #include <iostream>
 #include <vector>
 using namespace std;

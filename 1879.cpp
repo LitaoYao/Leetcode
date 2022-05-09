@@ -1,4 +1,4 @@
-// https://leetcode-cn.com/problems/minimum-xor-sum-of-two-arrays/
+// https://leetcode.cn/problems/minimum-xor-sum-of-two-arrays/
 #include <iostream>
 #include <vector>
 using namespace std;

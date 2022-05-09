@@ -1,4 +1,4 @@
-// https://leetcode-cn.com/problems/binary-tree-level-order-traversal/
+// https://leetcode.cn/problems/binary-tree-level-order-traversal/
 #include <iostream>
 #include <vector>
 using namespace std;

@@ -1,4 +1,4 @@
-// https://leetcode-cn.com/problems/find-the-student-that-will-replace-the-chalk/
+// https://leetcode.cn/problems/find-the-student-that-will-replace-the-chalk/
 #include <iostream>
 #include <vector>
 using namespace std;

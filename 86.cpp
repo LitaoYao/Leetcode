@@ -1,4 +1,4 @@
-// https://leetcode-cn.com/problems/partition-list/
+// https://leetcode.cn/problems/partition-list/
 #include <iostream>
 using namespace std;
 

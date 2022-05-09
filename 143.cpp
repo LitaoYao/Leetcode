@@ -1,4 +1,4 @@
-// https://leetcode-cn.com/problems/reorder-list/
+// https://leetcode.cn/problems/reorder-list/
 #include <iostream>
 using namespace std;
 

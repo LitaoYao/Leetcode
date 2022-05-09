@@ -1,4 +1,4 @@
-// https://leetcode-cn.com/problems/find-all-duplicates-in-an-array/
+// https://leetcode.cn/problems/find-all-duplicates-in-an-array/
 #include <iostream>
 #include <vector>
 using namespace std;

@@ -1,4 +1,4 @@
-// https://leetcode-cn.com/problems/copy-list-with-random-pointer/
+// https://leetcode.cn/problems/copy-list-with-random-pointer/
 #include <iostream>
 #include <unordered_map>
 using namespace std;

@@ -1,4 +1,4 @@
-// https://leetcode-cn.com/problems/generate-parentheses/
+// https://leetcode.cn/problems/generate-parentheses/
 #include <iostream>
 #include <vector>
 #include <string>

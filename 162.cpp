@@ -1,4 +1,4 @@
-// https://leetcode-cn.com/problems/find-peak-element/
+// https://leetcode.cn/problems/find-peak-element/
 #include <iostream>
 #include <vector>
 using namespace std;

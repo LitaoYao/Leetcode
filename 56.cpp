@@ -1,4 +1,4 @@
-// https://leetcode-cn.com/problems/merge-intervals/
+// https://leetcode.cn/problems/merge-intervals/
 #include <iostream>
 #include <vector>
 using namespace std;

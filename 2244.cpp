@@ -1,4 +1,4 @@
-// https://leetcode-cn.com/problems/minimum-rounds-to-complete-all-tasks/
+// https://leetcode.cn/problems/minimum-rounds-to-complete-all-tasks/
 #include <iostream>
 #include <vector>
 #include <map>

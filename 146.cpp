@@ -1,4 +1,4 @@
-// https://leetcode-cn.com/problems/lru-cache/
+// https://leetcode.cn/problems/lru-cache/
 #include <iostream>
 #include <unordered_map>
 using namespace std;

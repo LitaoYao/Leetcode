@@ -1,4 +1,4 @@
-// https://leetcode-cn.com/problems/find-palindrome-with-fixed-length/
+// https://leetcode.cn/problems/find-palindrome-with-fixed-length/
 #include <iostream>
 #include <vector>
 using namespace std;

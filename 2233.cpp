@@ -1,4 +1,4 @@
-// https://leetcode-cn.com/problems/maximum-product-after-k-increments/
+// https://leetcode.cn/problems/maximum-product-after-k-increments/
 #include <iostream>
 #include <vector>
 using namespace std;

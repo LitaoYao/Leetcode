@@ -1,4 +1,4 @@
-// https://leetcode-cn.com/problems/set-matrix-zeroes/
+// https://leetcode.cn/problems/set-matrix-zeroes/
 #include <iostream>
 #include <vector>
 using namespace std;

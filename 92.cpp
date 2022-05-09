@@ -1,4 +1,4 @@
-// https://leetcode-cn.com/problems/reverse-linked-list-ii/
+// https://leetcode.cn/problems/reverse-linked-list-ii/
 #include <iostream>
 using namespace std;
 struct ListNode {

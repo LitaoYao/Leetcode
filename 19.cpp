@@ -1,4 +1,4 @@
-// https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/ 
+// https://leetcode.cn/problems/remove-nth-node-from-end-of-list/ 
 #include <iostream>
 using namespace std;
 

@@ -1,4 +1,4 @@
-// https://leetcode-cn.com/problems/jump-game-ii/
+// https://leetcode.cn/problems/jump-game-ii/
 #include <iostream>
 #include <vector>
 using namespace std;

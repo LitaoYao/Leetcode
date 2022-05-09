@@ -1,4 +1,4 @@
-// https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node/
+// https://leetcode.cn/problems/populating-next-right-pointers-in-each-node/
 #include <iostream>
 using namespace std;
 

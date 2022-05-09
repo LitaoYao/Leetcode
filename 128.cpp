@@ -1,4 +1,4 @@
-// https://leetcode-cn.com/problems/longest-consecutive-sequence/
+// https://leetcode.cn/problems/longest-consecutive-sequence/
 #include <iostream>
 #include <vector>
 #include <unordered_set>

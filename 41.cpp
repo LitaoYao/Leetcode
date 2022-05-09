@@ -1,4 +1,4 @@
-// https://leetcode-cn.com/problems/first-missing-positive/
+// https://leetcode.cn/problems/first-missing-positive/
 #include <iostream>
 #include <vector>
 using namespace std;

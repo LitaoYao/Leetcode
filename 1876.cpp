@@ -1,4 +1,4 @@
-// https://leetcode-cn.com/problems/substrings-of-size-three-with-distinct-characters/
+// https://leetcode.cn/problems/substrings-of-size-three-with-distinct-characters/
 #include <iostream>
 #include <string>
 using namespace std;

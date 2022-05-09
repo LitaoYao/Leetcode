@@ -1,4 +1,4 @@
-// https://leetcode-cn.com/problems/subsets/
+// https://leetcode.cn/problems/subsets/
 #include <iostream>
 #include <vector>
 using namespace std;

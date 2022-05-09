@@ -1,4 +1,4 @@
-// https://leetcode-cn.com/problems/maximum-value-of-k-coins-from-piles/
+// https://leetcode.cn/problems/maximum-value-of-k-coins-from-piles/
 #include <iostream>
 #include <vector>
 using namespace std;

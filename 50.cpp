@@ -1,4 +1,4 @@
-// https://leetcode-cn.com/problems/powx-n/
+// https://leetcode.cn/problems/powx-n/
 #include <iostream>
 using namespace std;
 class Solution {

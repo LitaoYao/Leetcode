@@ -1,4 +1,4 @@
-// https://leetcode-cn.com/problems/unique-paths-ii/
+// https://leetcode.cn/problems/unique-paths-ii/
 #include <iostream>
 #include <vector>
 using namespace std;

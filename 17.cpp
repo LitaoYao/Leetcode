@@ -1,4 +1,4 @@
-// https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/
+// https://leetcode.cn/problems/letter-combinations-of-a-phone-number/
 #include <iostream>
 #include <string>
 #include <vector>

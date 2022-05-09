@@ -1,4 +1,4 @@
-// https://leetcode-cn.com/problems/maximum-trailing-zeros-in-a-cornered-path/
+// https://leetcode.cn/problems/maximum-trailing-zeros-in-a-cornered-path/
 #include <iostream>
 #include <vector>
 using namespace std;

@@ -1,4 +1,4 @@
-// https://leetcode-cn.com/problems/minimum-adjacent-swaps-to-reach-the-kth-smallest-number/submissions/
+// https://leetcode.cn/problems/minimum-adjacent-swaps-to-reach-the-kth-smallest-number/submissions/
 #include <iostream>
 #include <string>
 using namespace std;

@@ -1,4 +1,4 @@
-// https://leetcode-cn.com/problems/find-the-difference-of-two-arrays/
+// https://leetcode.cn/problems/find-the-difference-of-two-arrays/
 #include <iostream>
 #include <vector>
 using namespace std;

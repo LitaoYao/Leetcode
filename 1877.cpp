@@ -1,4 +1,4 @@
-// https://leetcode-cn.com/problems/minimize-maximum-pair-sum-in-array/
+// https://leetcode.cn/problems/minimize-maximum-pair-sum-in-array/
 #include <iostream>
 #include <vector>
 using namespace std;

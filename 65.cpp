@@ -1,4 +1,4 @@
-// https://leetcode-cn.com/problems/valid-number/
+// https://leetcode.cn/problems/valid-number/
 #include <iostream>
 #include <cmath>
 #include <cstring>

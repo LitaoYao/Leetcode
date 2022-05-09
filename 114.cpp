@@ -1,4 +1,4 @@
-// https://leetcode-cn.com/problems/flatten-binary-tree-to-linked-list/
+// https://leetcode.cn/problems/flatten-binary-tree-to-linked-list/
 #include <iostream>
 using namespace std;
 

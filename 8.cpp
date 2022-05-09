@@ -1,4 +1,4 @@
-// https://leetcode-cn.com/problems/string-to-integer-atoi/
+// https://leetcode.cn/problems/string-to-integer-atoi/
 #include <iostream>
 #include <string>
 #include <algorithm>

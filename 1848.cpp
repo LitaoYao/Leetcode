@@ -1,4 +1,4 @@
-// https://leetcode-cn.com/problems/minimum-distance-to-the-target-element/
+// https://leetcode.cn/problems/minimum-distance-to-the-target-element/
 #include <iostream>
 #include <vector>
 #include <algorithm>

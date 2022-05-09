@@ -1,4 +1,4 @@
-// https://leetcode-cn.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/
+// https://leetcode.cn/problems/construct-binary-tree-from-inorder-and-postorder-traversal/
 #include <iostream>
 #include <stack>
 #include <vector>

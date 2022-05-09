@@ -1,4 +1,4 @@
-// https://leetcode-cn.com/problems/reverse-integer/
+// https://leetcode.cn/problems/reverse-integer/
 #include <iostream>
 using namespace std;
 

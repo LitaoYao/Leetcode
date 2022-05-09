@@ -1,4 +1,4 @@
-// https://leetcode-cn.com/problems/4sum/
+// https://leetcode.cn/problems/4sum/
 #include <iostream>
 #include <vector>
 using namespace std;

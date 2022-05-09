@@ -1,4 +1,4 @@
-// https://leetcode-cn.com/problems/rotate-list/
+// https://leetcode.cn/problems/rotate-list/
 #include <iostream>
 using namespace std;
 

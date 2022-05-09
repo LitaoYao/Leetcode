@@ -1,4 +1,4 @@
-// https://leetcode-cn.com/problems/check-if-there-is-a-valid-parentheses-string-path/
+// https://leetcode.cn/problems/check-if-there-is-a-valid-parentheses-string-path/
 #include <iostream>
 #include <vector>
 #include <string>

@@ -1,4 +1,4 @@
-// https://leetcode-cn.com/problems/word-break/
+// https://leetcode.cn/problems/word-break/
 #include <iostream>
 #include <algorithm>
 #include <vector>

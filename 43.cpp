@@ -1,4 +1,4 @@
-// https://leetcode-cn.com/problems/multiply-strings/
+// https://leetcode.cn/problems/multiply-strings/
 #include <iostream>
 #include <vector>
 #include <string>

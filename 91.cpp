@@ -1,4 +1,4 @@
-// https://leetcode-cn.com/problems/decode-ways/
+// https://leetcode.cn/problems/decode-ways/
 #include <iostream>
 #include <vector>
 #include <string>

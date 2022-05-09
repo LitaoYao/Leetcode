@@ -1,4 +1,4 @@
-// https://leetcode-cn.com/problems/count-nodes-equal-to-average-of-subtree/
+// https://leetcode.cn/problems/count-nodes-equal-to-average-of-subtree/
 #include <iostream>
 using namespace std;
 

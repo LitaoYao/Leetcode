@@ -1,4 +1,4 @@
-// https://leetcode-cn.com/problems/3sum-closest/
+// https://leetcode.cn/problems/3sum-closest/
 #include <iostream>
 #include <vector>
 #include <algorithm>

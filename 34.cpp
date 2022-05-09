@@ -1,4 +1,4 @@
-// https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/
+// https://leetcode.cn/problems/find-first-and-last-position-of-element-in-sorted-array/
 #include <iostream>
 #include <vector>
 using namespace std;

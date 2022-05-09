@@ -1,4 +1,4 @@
-// https://leetcode-cn.com/problems/maximum-product-subarray/
+// https://leetcode.cn/problems/maximum-product-subarray/
 #include <iostream>
 #include <vector>
 using namespace std;

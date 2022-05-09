@@ -1,4 +1,4 @@
-// https://leetcode-cn.com/problems/total-appeal-of-a-string/
+// https://leetcode.cn/problems/total-appeal-of-a-string/
 #include <iostream>
 #include <vector>
 using namespace std;

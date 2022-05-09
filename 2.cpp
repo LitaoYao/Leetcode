@@ -1,4 +1,4 @@
-// https://leetcode-cn.com/problems/add-two-numbers/
+// https://leetcode.cn/problems/add-two-numbers/
 #include <iostream>
 using namespace std;
 struct ListNode {

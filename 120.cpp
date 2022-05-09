@@ -1,4 +1,4 @@
-// https://leetcode-cn.com/problems/triangle/
+// https://leetcode.cn/problems/triangle/
 #include <iostream>
 #include <vector>
 using namespace std;

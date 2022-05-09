@@ -1,4 +1,4 @@
-// https://leetcode-cn.com/problems/longest-path-with-different-adjacent-characters/
+// https://leetcode.cn/problems/longest-path-with-different-adjacent-characters/
 #include <iostream>
 #include <vector>
 #include <queue>

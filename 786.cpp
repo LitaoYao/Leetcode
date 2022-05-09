@@ -1,4 +1,4 @@
-// https://leetcode-cn.com/problems/k-th-smallest-prime-fraction/
+// https://leetcode.cn/problems/k-th-smallest-prime-fraction/
 #include <iostream>
 #include <vector>
 #include <algorithm>

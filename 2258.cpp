@@ -1,4 +1,4 @@
-// https://leetcode-cn.com/problems/escape-the-spreading-fire/
+// https://leetcode.cn/problems/escape-the-spreading-fire/
 #include <iostream>
 #include <vector>
 #include <queue>

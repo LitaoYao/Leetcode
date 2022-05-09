@@ -1,4 +1,4 @@
-// https://leetcode-cn.com/problems/count-number-of-texts/
+// https://leetcode.cn/problems/count-number-of-texts/
 #include <iostream>
 #include <vector>
 #include <string>

@@ -1,4 +1,4 @@
-// https://leetcode-cn.com/problems/k-divisible-elements-subarrays/
+// https://leetcode.cn/problems/k-divisible-elements-subarrays/
 #include <iostream>
 #include <vector>
 #include <set>

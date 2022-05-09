@@ -1,4 +1,4 @@
-// https://leetcode-cn.com/problems/compare-version-numbers/
+// https://leetcode.cn/problems/compare-version-numbers/
 #include <iostream>
 #include <string>
 using namespace std;

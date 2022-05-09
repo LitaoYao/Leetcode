@@ -1,4 +1,4 @@
-// https://leetcode-cn.com/problems/nth-magical-number/
+// https://leetcode.cn/problems/nth-magical-number/
 #include <iostream>
 using namespace std;
 

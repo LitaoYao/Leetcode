@@ -1,4 +1,4 @@
-// https://leetcode-cn.com/problems/minimum-path-sum/
+// https://leetcode.cn/problems/minimum-path-sum/
 #include <iostream>
 #include <vector>
 using namespace std;

@@ -1,4 +1,4 @@
-// https://leetcode-cn.com/problems/sort-list/
+// https://leetcode.cn/problems/sort-list/
 #include <iostream>
 using namespace std;
 

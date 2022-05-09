@@ -1,4 +1,4 @@
-// https://leetcode-cn.com/problems/gray-code/
+// https://leetcode.cn/problems/gray-code/
 #include <iostream>
 #include <set>
 #include <vector>

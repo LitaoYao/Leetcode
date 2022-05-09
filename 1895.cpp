@@ -1,4 +1,4 @@
-// https://leetcode-cn.com/problems/largest-magic-square/
+// https://leetcode.cn/problems/largest-magic-square/
 #include <iostream>
 #include <vector>
 using namespace std;

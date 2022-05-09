@@ -1,4 +1,4 @@
-// https://leetcode-cn.com/problems/max-points-on-a-line/
+// https://leetcode.cn/problems/max-points-on-a-line/
 #include <iostream>
 #include <vector>
 #include <cmath>

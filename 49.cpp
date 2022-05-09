@@ -1,4 +1,4 @@
-// https://leetcode-cn.com/problems/group-anagrams/
+// https://leetcode.cn/problems/group-anagrams/
 #include <iostream>
 #include <unordered_map>
 #include <vector>

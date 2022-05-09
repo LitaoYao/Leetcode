@@ -1,4 +1,4 @@
-// https://leetcode-cn.com/problems/rotate-image/
+// https://leetcode.cn/problems/rotate-image/
 #include <iostream>
 #include <vector>
 using namespace std;

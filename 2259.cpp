@@ -1,4 +1,4 @@
-// https://leetcode-cn.com/problems/remove-digit-from-number-to-maximize-result/
+// https://leetcode.cn/problems/remove-digit-from-number-to-maximize-result/
 #include <iostream>
 #include <vector>
 #include <string>

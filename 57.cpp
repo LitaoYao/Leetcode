@@ -1,4 +1,4 @@
-// https://leetcode-cn.com/problems/insert-interval/
+// https://leetcode.cn/problems/insert-interval/
 #include <iostream>
 #include <vector>
 using namespace std;

@@ -1,4 +1,4 @@
-// https://leetcode-cn.com/problems/divide-two-integers/
+// https://leetcode.cn/problems/divide-two-integers/
 #include <iostream>
 using namespace std;
 

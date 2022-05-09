@@ -1,4 +1,4 @@
-// https://leetcode-cn.com/problems/binary-search-tree-iterator/
+// https://leetcode.cn/problems/binary-search-tree-iterator/
 #include <iostream>
 #include <stack>
 using namespace std;

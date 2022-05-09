@@ -1,4 +1,4 @@
-// https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array-ii/
+// https://leetcode.cn/problems/remove-duplicates-from-sorted-array-ii/
 #include <iostream>
 #include <vector>
 using namespace std;

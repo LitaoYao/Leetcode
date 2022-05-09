@@ -1,4 +1,4 @@
-// https://leetcode-cn.com/problems/count-prefixes-of-a-given-string/
+// https://leetcode.cn/problems/count-prefixes-of-a-given-string/
 #include <iostream>
 #include <vector>
 #include <string>

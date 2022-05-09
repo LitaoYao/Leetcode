@@ -1,4 +1,4 @@
-// https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array/
+// https://leetcode.cn/problems/find-minimum-in-rotated-sorted-array/
 #include <iostream>
 #include <vector>
 using namespace std;

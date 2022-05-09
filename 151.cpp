@@ -1,4 +1,4 @@
-// https://leetcode-cn.com/problems/reverse-words-in-a-string/
+// https://leetcode.cn/problems/reverse-words-in-a-string/
 #include <iostream>
 #include <string>
 using namespace std;

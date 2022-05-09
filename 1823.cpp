@@ -1,4 +1,4 @@
-// https://leetcode-cn.com/problems/find-the-winner-of-the-circular-game/
+// https://leetcode.cn/problems/find-the-winner-of-the-circular-game/
 #include <iostream>
 using namespace std;
 

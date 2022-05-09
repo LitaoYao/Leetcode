@@ -1,4 +1,4 @@
-// https://leetcode-cn.com/problems/check-if-all-the-integers-in-a-range-are-covered
+// https://leetcode.cn/problems/check-if-all-the-integers-in-a-range-are-covered
 #include <iostream>
 #include <vector>
 using namespace std;

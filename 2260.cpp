@@ -1,4 +1,4 @@
-// https://leetcode-cn.com/problems/minimum-consecutive-cards-to-pick-up/
+// https://leetcode.cn/problems/minimum-consecutive-cards-to-pick-up/
 #include <iostream>
 #include <vector>
 using namespace std;

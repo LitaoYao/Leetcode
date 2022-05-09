@@ -1,4 +1,4 @@
-// https://leetcode-cn.com/problems/unique-binary-search-trees/
+// https://leetcode.cn/problems/unique-binary-search-trees/
 #include <iostream>
 #include <vector>
 using namespace std;

@@ -1,4 +1,4 @@
-// https://leetcode-cn.com/problems/palindrome-partitioning/
+// https://leetcode.cn/problems/palindrome-partitioning/
 #include <iostream>
 #include <vector>
 #include <string>

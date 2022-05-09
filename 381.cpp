@@ -1,4 +1,4 @@
-// https://leetcode-cn.com/problems/insert-delete-getrandom-o1-duplicates-allowed/
+// https://leetcode.cn/problems/insert-delete-getrandom-o1-duplicates-allowed/
 #include <iostream>
 #include <vector>
 #include <unordered_map>

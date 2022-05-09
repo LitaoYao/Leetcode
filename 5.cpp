@@ -1,4 +1,4 @@
-// https://leetcode-cn.com/problems/longest-palindromic-substring/
+// https://leetcode.cn/problems/longest-palindromic-substring/
 #include <iostream>
 #include <vector>
 #include <string>

@@ -1,4 +1,4 @@
-// https://leetcode-cn.com/problems/permutations-ii
+// https://leetcode.cn/problems/permutations-ii
 #include <iostream>
 #include <vector>
 #include <algorithm>

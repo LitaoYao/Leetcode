@@ -1,4 +1,4 @@
-// https://leetcode-cn.com/problems/UEcfPD/
+// https://leetcode.cn/problems/UEcfPD/
 #include <iostream>
 #include <vector>
 #include <queue>

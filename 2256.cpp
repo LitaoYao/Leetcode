@@ -1,4 +1,4 @@
-// https://leetcode-cn.com/problems/minimum-average-difference/
+// https://leetcode.cn/problems/minimum-average-difference/
 #include <iostream>
 #include <vector>
 using namespace std;

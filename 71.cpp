@@ -1,4 +1,4 @@
-// https://leetcode-cn.com/problems/simplify-path/
+// https://leetcode.cn/problems/simplify-path/
 #include <iostream>
 #include <string>
 #include <vector>

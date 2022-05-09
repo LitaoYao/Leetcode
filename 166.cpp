@@ -1,4 +1,4 @@
-// https://leetcode-cn.com/problems/fraction-to-recurring-decimal/
+// https://leetcode.cn/problems/fraction-to-recurring-decimal/
 #include <iostream>
 #include <string>
 #include <unordered_map>

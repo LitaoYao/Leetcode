@@ -1,4 +1,4 @@
-// https://leetcode-cn.com/problems/minimum-interval-to-include-each-query/
+// https://leetcode.cn/problems/minimum-interval-to-include-each-query/
 #include <iostream>
 #include <vector>
 #include <unordered_map>

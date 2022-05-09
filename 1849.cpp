@@ -1,4 +1,4 @@
-// https://leetcode-cn.com/problems/splitting-a-string-into-descending-consecutive-values/submissions/
+// https://leetcode.cn/problems/splitting-a-string-into-descending-consecutive-values/submissions/
 #include <iostream>
 #include <string>
 using namespace std;

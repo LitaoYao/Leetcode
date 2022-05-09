@@ -1,4 +1,4 @@
-// https://leetcode-cn.com/problems/word-search/
+// https://leetcode.cn/problems/word-search/
 #include <iostream>
 #include <string>
 #include <vector>
