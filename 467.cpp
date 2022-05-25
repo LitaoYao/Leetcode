@@ -13,13 +13,11 @@ public:
 		while (index < n)
 		{
 			int cnt = index + 1;
+			alphabet[p[cnt - 1] - 'a'] = max(alphabet[p[cnt - 1] - 'a'], cnt - index);
 			while (cnt < n && p[cnt] == (p[cnt - 1] - 'a' + 1) % 26 + 'a')
 			{
 				++cnt;
-			}
-			for (int i = index; i < index + 26 && i < cnt; ++i)
-			{
-				alphabet[p[i] - 'a'] = max(alphabet[p[i] - 'a'], cnt - i);
+				alphabet[p[cnt - 1] - 'a'] = max(alphabet[p[cnt - 1] - 'a'], cnt - index);
 			}
 			index = cnt;
 		}
